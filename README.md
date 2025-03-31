@@ -117,7 +117,12 @@ GET Request
 GET Request
  http://localhost:8080/recipes?name=pasta&cuisine=italian
 
+## 🚀 Accessing Swagger UI  
+Once the project is running, access the Swagger documentation at:  
 
+🔗 [Swagger UI](http://localhost:8080/swagger-ui/index.html#/recipe-api-rest-controller)  
+http://localhost:8080/swagger-ui/index.html#/recipe-api-rest-controller   
+- ` Suppose your application Running different port no means change 8080 to your application running port no
 
 ### 🧪 **Running Tests**
 To execute unit tests, run:
